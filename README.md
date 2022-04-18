@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Pincha "Benny" Chinvanich 👋
 
+I'm a 19 year old first-year student at the Universtiy of British Columbia currently pursuing a degree for a Combined Major in Business and Computer Science. Most of my projects will be in this repository however some of my projects are currently in private repositories. Feel free to contact me via LinkedIn!
 <!--
 **bennypc/bennypc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
