@@ -2,6 +2,8 @@
 
 I'm a 20 year old second-year student at the University of British Columbia currently pursuing a degree for a Combined Major in Business and Computer Science. Most of my projects will be located here however some of my projects are currently in private repositories. Feel free to contact me via LinkedIn!
 
+Seeking Fall 2023 and Summer 2024 internships!
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/benny-chinvanich-6182261a4/ "LinkedIn")
 <!--
 **bennypc/bennypc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
