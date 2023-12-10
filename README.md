@@ -1,6 +1,9 @@
 ### Hi there, my name is Benny Chinvanich 👋
 
-I'm a 20 year old second-year student at the University of British Columbia currently pursuing a degree for a Combined Major in Business and Computer Science. Most of my projects will be located here however some of my projects are currently in private repositories. Feel free to contact me via LinkedIn!
+I'm a 21 year old third-year student at the University of British Columbia currently pursuing a degree for a Combined Major in Business and Computer Science. Most of my projects will be located here however some of my projects are currently in private repositories. Feel free to contact me via LinkedIn!
+
+Current: Performance Developer Intern at CIBC
+Past: Full-Stack Developer Intern at BC Public Service
 
 Seeking Summer 2024 internships!
 
