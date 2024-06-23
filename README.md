@@ -2,13 +2,11 @@
 
 I'm a 21 year old third-year student at the University of British Columbia currently pursuing a degree for a Combined Major in Business and Computer Science. Most of my projects will be located here however some of my projects are currently in private repositories. Feel free to contact me via LinkedIn!
 
-Future: Software Development Engineer at Amazon
+Current: Software Development Engineer at Amazon
 
-Current: Performance Developer Intern at CIBC
+Past: Performance Developer Intern at CIBC, Full-Stack Developer Intern at BC Public Service
 
-Past: Full-Stack Developer Intern at BC Public Service
-
-Seeking Summer 2024 internships!
+Seeking Summer 2025 internships!
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/benny-chinvanich-6182261a4/ "LinkedIn")
 <!--
