@@ -1,12 +1,24 @@
-### Hi there, my name is Benny Chinvanich 👋
+### Hi there, I'm Benny Chinvanich! 👋
 
-I'm a 21 year old third-year student at the University of British Columbia currently pursuing a degree for a Combined Major in Business and Computer Science. Most of my projects will be located here however some of my projects are currently in private repositories. Feel free to contact me via LinkedIn!
+I'm a 21-year-old third-year student at the University of British Columbia, pursuing a Combined Major in Business and Computer Science. Most of my projects can be found here, though some are in private repositories. Feel free to connect with me on LinkedIn!
 
-Current: Software Development Engineer at Amazon
+### Professional Experience
 
-Past: Performance Developer Intern at CIBC, Full-Stack Developer Intern at BC Public Service
+- **Amazon**  
+  *Software Development Engineer Intern*
 
-Seeking Summer 2025 internships!
+- **CIBC**  
+  *Performance Developer Intern*  
+
+- **BC Public Service**  
+  *Full-Stack Developer Intern*  
+
+---
+
+### Currently Seeking:  
+Summer 2025 internships in software engineer, quantitative development, or related fields.
+
+---
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/benny-chinvanich-6182261a4/ "LinkedIn")
 <!--
