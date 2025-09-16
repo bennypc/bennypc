@@ -1,11 +1,11 @@
 ### Hi there, I'm Benny Chinvanich! 👋
 
-I'm a 21-year-old third-year student at the University of British Columbia, pursuing a Combined Major in Business and Computer Science. Most of my projects can be found here, though some are in private repositories. Feel free to connect with me on LinkedIn!
+I'm a 22-year-old fifth-year student at the University of British Columbia, pursuing a Combined Major in Business and Computer Science. Most of my projects can be found here, though some are in private repositories. Feel free to connect with me on LinkedIn!
 
 ### Professional Experience
 
 - **Amazon**  
-  *Software Development Engineer Intern*
+  *Software Development Engineer Intern* x2
 
 - **CIBC**  
   *Performance Developer Intern*  
@@ -16,7 +16,7 @@ I'm a 21-year-old third-year student at the University of British Columbia, purs
 ---
 
 ### Currently Seeking:  
-Summer 2025 internships in software engineer, quantitative development, or related fields.
+Full-time roles in software engineer, quantitative development, or related fields.
 
 ---
 
